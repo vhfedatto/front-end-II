@@ -4,7 +4,6 @@ altparamedia = 0
 n_masc = 0
 
 for i in range(15):
-
 #Repetição para a altura
     while True:
         try: #Para lidar com exceções (erros) na execução - e.g.: para caso o usuário digite letras ao invés de colocar números.

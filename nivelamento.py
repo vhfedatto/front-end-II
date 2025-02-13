@@ -3,7 +3,7 @@ genero = []
 altparamedia = 0
 n_masc = 0
 
-for i in range(2):
+for i in range(15):
 
 #Repetição para a altura
     while True:
